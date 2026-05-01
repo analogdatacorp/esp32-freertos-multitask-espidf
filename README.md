@@ -44,13 +44,15 @@ Any ESP32 or ESP32-S3 variant works. For other boards, update `LED_PIN` and the 
 
 ## ESP-IDF Installation (Quick)
 
-# Use the official ESP-IDF Installer
-
 Follow the instructions on the official ESP-IDF Installer page to install ESP-IDF. The installer will automatically download and set up the necessary tools for your development environment. You can copy paste the following link to install ESP-IDF or click on the image below to visit the official ESP-IDF Installer page.
 
- https://docs.espressif.com/projects/esp-idf/en/v6.0.1/esp32/get-started/index.html
+[https://docs.espressif.com/projects/esp-idf/en/v6.0.1/esp32/get-started/index.html](https://docs.espressif.com/projects/esp-idf/en/v6.0.1/esp32/get-started/index.html)
 
-[![ESP-IDF Installer](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_static/espressif-logo.svg)](https://docs.espressif.com/projects/esp-idf/en/v6.0.1/esp32/get-started/index.html)
+<p align="center">
+  <a href="https://docs.espressif.com/projects/esp-idf/en/v6.0.1/esp32/get-started/index.html">
+    <img src="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_static/espressif-logo.svg" alt="ESP-IDF Installer" width="200">
+  </a>
+</p>
 
 
 
