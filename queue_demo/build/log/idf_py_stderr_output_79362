@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B /Users/rajathkumar/agdblogseries/ad-blog-1/esp32-freertos-multitask-espidf/queue_demo/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/Users/rajathkumar/.espressif/tools/python/v6.0.1/venv/bin/python -DESP_PLATFORM=1 -DIDF_TARGET=esp32s3 -DCCACHE_ENABLE=False /Users/rajathkumar/agdblogseries/ad-blog-1/esp32-freertos-multitask-espidf/queue_demo
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 

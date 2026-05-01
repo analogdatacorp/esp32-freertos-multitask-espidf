@@ -1,0 +1,2 @@
+source /Users/rajathkumar/agdblogseries/ad-blog-1/esp32-freertos-multitask-espidf/queue_demo/build/gdbinit/symbols
+source /Users/rajathkumar/agdblogseries/ad-blog-1/esp32-freertos-multitask-espidf/queue_demo/build/gdbinit/connect

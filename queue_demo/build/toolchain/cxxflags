@@ -1,0 +1,6 @@
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=/Users/rajathkumar/agdblogseries/ad-blog-1/esp32-freertos-multitask-espidf/queue_demo/build/specs/picolibc.specs"
+-fno-rtti
